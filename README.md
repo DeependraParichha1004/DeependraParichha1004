@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Pursuing Bachelor's in **AI-ML**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **harshparichha15@gmail.com**
 
