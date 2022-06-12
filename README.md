@@ -25,8 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparichha1004&show_icons=true&locale=en" alt="deependraparichha1004" /></p>
  -->
- ### Hi there 
-
+ ### Hi there,
+## My Name is Deependra Parichha
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
