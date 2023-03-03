@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/deependra parichha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deependra parichha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16253947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16253947" height="30" width="40" /></a>
 <a href="https://kaggle.com/deependraparichha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deependraparichha" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deependra10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deependra10" height="30" width="40" /></a>
+<a href="https://medium.com/@deependraparichha15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="deependra10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
