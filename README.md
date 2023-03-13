@@ -28,8 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deependraparichha1004&show_icons=true&locale=en" alt="deependraparichha1004" /></p>
 
-<<<<<<< HEAD
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deependraparichha1004&" alt="DeependraParichha1004" /></p>
-=======
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deependraparichha1004&" alt="deependraparichha1004" /></p> -->
->>>>>>> 0c0b3a9a3419bd1adfff730ff4deefd53e1362d9
+
+
+
+
