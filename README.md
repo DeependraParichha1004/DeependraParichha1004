@@ -1,5 +1,5 @@
 # Hi,💫 I'm Deependra Parichha:
-## I'm Currently learning Machine Learning. 
+## I'm Currently Practising Machine Learning. 
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ1ZTJxaXY5aHBxc2oxNzJ6c283NmV4a3Zxa3ZscDlsbjAxMDdyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
 
